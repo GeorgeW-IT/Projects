@@ -13,11 +13,13 @@ The lab includes:
 ---
 
 ## 🖥️ Lab Environment
-**Hypervisor:** VirtualBox / VMware / Hyper-V  
-**Domain:** yourdomain.local  
-**Server:** Windows Server 2019/2022  
-**Client:** Windows 10/11 Pro  
-**Network:** NAT or Internal Network
+**Platform:** Microsoft Azure 
+
+**VM OS:** Windows Server 2022 
+
+**VM Specs:** Windows 10/11 Pro  
+
+**Network:** Internal network within VM
 
 ---
 
